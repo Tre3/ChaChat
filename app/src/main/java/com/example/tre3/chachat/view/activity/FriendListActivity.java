@@ -1,9 +1,10 @@
-package com.example.tre3.chachat;
+package com.example.tre3.chachat.view.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.ListView;
 
+import com.example.tre3.chachat.R;
 import com.example.tre3.chachat.adapter.FriendListAdapter;
 import com.example.tre3.chachat.adapter.factory.FriendListAdapterFactory;
 import com.example.tre3.chachat.model.FirebaseDatabaseCallback;
